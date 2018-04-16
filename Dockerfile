@@ -1,5 +1,5 @@
 FROM phusion/baseimage:0.9.19
-MAINTAINER Luke de Oliveira <lukedeo@ldo.io>
+MAINTAINER Olaf Nackenhorst <olaf.nackenhorst@cern.ch>
 
 USER root
 
