@@ -1,0 +1,13 @@
+name: TUDortmundMLSeminar
+dependencies:
+  - python=2.7
+  - keras
+  - tensorflow
+  - h5py==2.5.0
+  - numpy
+  - matplotlib==2.0.2
+  - ipython
+  - scikit-learn==0.19.1
+  - pandas
+  - pip:
+    - wget
