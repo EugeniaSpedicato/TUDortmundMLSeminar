@@ -3,11 +3,13 @@ dependencies:
   - python=2.7
   - keras
   - tensorflow
-  - h5py==2.5.0
+  - h5py
   - numpy
-  - matplotlib==2.0.2
+  - matplotlib
   - ipython
-  - scikit-learn==0.19.1
+  - scikit-learn
   - pandas
+  - scipy
+  - mlxtend
   - pip:
     - wget
