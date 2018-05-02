@@ -10,5 +10,7 @@ dependencies:
   - scikit-learn
   - pandas
   - scipy
+  - mlxtend
+  - seaborn
   - pip:
     - wget
