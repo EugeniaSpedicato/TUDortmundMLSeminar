@@ -12,7 +12,10 @@ dependencies:
   - scipy
   - mlxtend
   - seaborn
-  - pydot
-  - graphviz
+  - pydotprint
+
   - pip:
     - wget
+    - pydot
+    - graphviz
+
