@@ -10,12 +10,15 @@ dependencies:
   - scikit-learn
   - pandas
   - scipy
-  - mlxtend
   - seaborn
   - pydot
+  - pip
 
   - pip:
     - wget
     - graphviz
     - hyperas
+    - mlxtend
+
+
 
